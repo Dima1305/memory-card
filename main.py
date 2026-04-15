@@ -1,4 +1,6 @@
-#создай тут фоторедактор Easy Editor!
+'''
+это основной модуль приложения memory-card
+'''
 from PyQt5.QtWidgets import (QWidget, QHBoxLayout, QVBoxLayout, QLabel, QPushButton, QListWidget,
 QApplication, QFileDialog)
 from PyQt5.QtCore import Qt
